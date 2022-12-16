@@ -13,7 +13,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=Figma)
 
 #### Follow me
-![Figma](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/leilash39)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)
 ![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)
