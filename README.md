@@ -18,3 +18,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/leila-shcheglova-5b2007256)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeilaShcheglova&show_icons=true&theme=tokyonight)
