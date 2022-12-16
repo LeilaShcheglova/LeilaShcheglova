@@ -7,7 +7,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman)
 ![Charles](https://img.shields.io/badge/-Charles_Proxy-E0FFFF?style=for-the-badge&logo=charles)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![Jira](https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=for-the-badge&logo=CSS3)
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=Figma)
