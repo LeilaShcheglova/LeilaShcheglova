@@ -14,7 +14,7 @@
 
 #### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/leilash39)
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)
-![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/shcheglova.leila.it)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/leila-shcheglova-5b2007256)
+
 
