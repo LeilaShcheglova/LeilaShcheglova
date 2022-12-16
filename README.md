@@ -11,3 +11,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=for-the-badge&logo=CSS3)
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=Figma)
+
+#### Follow me
+![Figma](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin)
+![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)
+
